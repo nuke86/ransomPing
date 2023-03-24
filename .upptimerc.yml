@@ -3,14 +3,46 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Affari Esteri e Cooperazione Internazionale
+    url: http://www.esteri.it/
+  - name: Interno
+    url: https://www.interno.gov.it/
+  - name: Giustizia
+    url: http://www.giustizia.it/
+  - name: Difesa
+    url: http://www.difesa.it/
+  - name: Economia e Finanze
+    url: http://www.mef.gov.it/
+  - name: Imprese e Made in Italy
+    url: https://www.mise.gov.it/
+  - name: Agricoltura, Sovranità alimentare e Foreste
+    url: http://www.politicheagricole.it/
+  - name: Ambiente e Sicurezza energetica
+    url: https://www.mite.gov.it/    
+  - name: Infrastrutture e Trasporti
+    url: http://www.mit.gov.it/
+  - name: Lavoro e Politiche Sociali
+    url: http://www.lavoro.gov.it/
+  - name: Istruzione e Merito
+    url: https://www.miur.gov.it/
+  - name: Università e ricerca
+    url: https://www.mur.gov.it/it
+  - name: Cultura
+    url: http://www.beniculturali.it/
+  - name: Salute
+    url: http://www.salute.gov.it/
+  - name: Turismo
+    url: https://www.ministeroturismo.gov.it/
+  - name: Carabinieri
+    url: http://www.carabinieri.it/
+  - name: Polizia di Stato
+    url: https://www.poliziadistato.it/
+  - name: Guardia di Finanza
+    url: https://www.gdf.it
+  - name: Governo
+    url: https://www.governo.it/
+  - name: Presidenza della Repubblica
+    url: http://www.quirinale.it/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
