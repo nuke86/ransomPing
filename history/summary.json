@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.difesa.it.ico",
     "slug": "difesa",
     "status": "up",
-    "uptime": "80.90%",
-    "uptimeDay": "80.90%",
-    "uptimeWeek": "80.90%",
-    "uptimeMonth": "80.90%",
-    "uptimeYear": "80.90%",
+    "uptime": "80.72%",
+    "uptimeDay": "80.72%",
+    "uptimeWeek": "80.72%",
+    "uptimeMonth": "80.72%",
+    "uptimeYear": "80.72%",
     "time": 557,
     "timeDay": 557,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2023-03-25": 225
+      "2023-03-25": 228
     }
   },
   {
@@ -209,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
     "status": "down",
-    "uptime": "83.05%",
-    "uptimeDay": "83.05%",
-    "uptimeWeek": "83.05%",
-    "uptimeMonth": "83.05%",
-    "uptimeYear": "83.05%",
+    "uptime": "82.86%",
+    "uptimeDay": "82.86%",
+    "uptimeWeek": "82.86%",
+    "uptimeMonth": "82.86%",
+    "uptimeYear": "82.86%",
     "time": 726,
     "timeDay": 726,
     "timeWeek": 726,
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2023-03-25": 200
+      "2023-03-25": 203
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "cultura",
     "status": "down",
-    "uptime": "66.42%",
-    "uptimeDay": "66.42%",
-    "uptimeWeek": "66.42%",
-    "uptimeMonth": "66.42%",
-    "uptimeYear": "66.42%",
+    "uptime": "66.27%",
+    "uptimeDay": "66.27%",
+    "uptimeWeek": "66.27%",
+    "uptimeMonth": "66.27%",
+    "uptimeYear": "66.27%",
     "time": 3004,
     "timeDay": 3004,
     "timeWeek": 3004,
     "timeMonth": 3004,
     "timeYear": 3004,
     "dailyMinutesDown": {
-      "2023-03-25": 388,
+      "2023-03-25": 391,
       "2023-03-24": 7
     }
   },
