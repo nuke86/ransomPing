@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interno.gov.it.ico",
     "slug": "interno",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 752,
     "timeDay": 752,
     "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-03-25": 174,
+      "2023-03-25": 180,
       "2023-03-24": 9
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.giustizia.it.ico",
     "slug": "giustizia",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 174,
+      "2023-03-25": 180,
       "2023-03-24": 8
     }
   },
@@ -166,7 +166,7 @@
     "timeMonth": 2203,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-03-25": 174,
+      "2023-03-25": 180,
       "2023-03-24": 8
     }
   },
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 174,
+      "2023-03-25": 180,
       "2023-03-24": 7
     }
   },
@@ -286,19 +286,19 @@
     "url": "http://www.carabinieri.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.carabinieri.it.ico",
     "slug": "carabinieri",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 2012,
-    "timeDay": 2012,
-    "timeWeek": 2012,
-    "timeMonth": 2012,
-    "timeYear": 2012,
+    "status": "up",
+    "uptime": "97.07%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
+    "time": 2102,
+    "timeDay": 2102,
+    "timeWeek": 2102,
+    "timeMonth": 2102,
+    "timeYear": 2102,
     "dailyMinutesDown": {
-      "2023-03-25": 0
+      "2023-03-25": 5
     }
   },
   {
@@ -372,7 +372,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-03-25": 174,
+      "2023-03-25": 180,
       "2023-03-24": 7
     }
   }
