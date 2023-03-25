@@ -9,8 +9,8 @@ sites:
     url: https://www.interno.gov.it/it/
   - name: Giustizia
     check: "tcp-ping"
-    url: https://www.giustizia.it/giustizia/
-    port: 80
+    url: www.giustizia.it
+    port: 443
   - name: Difesa
     url: http://www.difesa.it/
   - name: Economia e Finanze
