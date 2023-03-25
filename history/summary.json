@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.difesa.it.ico",
     "slug": "difesa",
     "status": "up",
-    "uptime": "73.02%",
-    "uptimeDay": "73.02%",
-    "uptimeWeek": "73.02%",
-    "uptimeMonth": "73.02%",
-    "uptimeYear": "73.02%",
+    "uptime": "72.91%",
+    "uptimeDay": "72.91%",
+    "uptimeWeek": "72.91%",
+    "uptimeMonth": "72.91%",
+    "uptimeYear": "72.91%",
     "time": 557,
     "timeDay": 557,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2023-03-25": 352
+      "2023-03-25": 354
     }
   },
   {
@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mef.gov.it.ico",
     "slug": "economia-e-finanze",
     "status": "up",
-    "uptime": "96.96%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "96.96%",
+    "uptime": "96.97%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
     "time": 2595,
     "timeDay": 2595,
     "timeWeek": 2595,
@@ -117,19 +117,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.politicheagricole.it.ico",
     "slug": "agricoltura-sovranita-alimentare-e-foreste",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1051,
     "timeDay": 1051,
     "timeWeek": 1051,
     "timeMonth": 1051,
     "timeYear": 1051,
-    "dailyMinutesDown": {
-      "2023-03-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ambiente e Sicurezza energetica",
@@ -211,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
     "status": "up",
-    "uptime": "80.31%",
-    "uptimeDay": "80.31%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "80.31%",
-    "uptimeYear": "80.31%",
+    "uptime": "80.20%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "80.20%",
+    "uptimeMonth": "80.20%",
+    "uptimeYear": "80.20%",
     "time": 737,
     "timeDay": 737,
     "timeWeek": 737,
     "timeMonth": 737,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2023-03-25": 258
+      "2023-03-25": 259
     }
   },
   {
@@ -231,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "cultura",
     "status": "down",
-    "uptime": "59.94%",
-    "uptimeDay": "59.94%",
-    "uptimeWeek": "59.94%",
-    "uptimeMonth": "59.94%",
-    "uptimeYear": "59.94%",
+    "uptime": "59.86%",
+    "uptimeDay": "59.86%",
+    "uptimeWeek": "59.86%",
+    "uptimeMonth": "59.86%",
+    "uptimeYear": "59.86%",
     "time": 3004,
     "timeDay": 3004,
     "timeWeek": 3004,
     "timeMonth": 3004,
     "timeYear": 3004,
     "dailyMinutesDown": {
-      "2023-03-25": 515,
+      "2023-03-25": 517,
       "2023-03-24": 7
     }
   },
