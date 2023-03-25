@@ -34,7 +34,7 @@
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-03-25": 180,
+      "2023-03-25": 281,
       "2023-03-24": 9
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.giustizia.it.ico",
     "slug": "giustizia",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 180,
+      "2023-03-25": 281,
       "2023-03-24": 8
     }
   },
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mit.gov.it.ico",
     "slug": "infrastrutture-e-trasporti",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 2203,
     "timeDay": 2203,
     "timeWeek": 2203,
     "timeMonth": 2203,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-03-25": 180,
+      "2023-03-25": 281,
       "2023-03-24": 8
     }
   },
@@ -211,18 +211,20 @@
     "url": "https://www.mur.gov.it/it",
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1093,
-    "timeDay": 1093,
-    "timeWeek": 1093,
-    "timeMonth": 1093,
-    "timeYear": 1093,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 918,
+    "timeDay": 918,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
+    "dailyMinutesDown": {
+      "2023-03-25": 1
+    }
   },
   {
     "name": "Cultura",
@@ -230,18 +232,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "cultura",
     "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 180,
+      "2023-03-25": 281,
       "2023-03-24": 7
     }
   },
@@ -287,19 +289,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.carabinieri.it.ico",
     "slug": "carabinieri",
     "status": "up",
-    "uptime": "97.07%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2102,
     "timeDay": 2102,
     "timeWeek": 2102,
     "timeMonth": 2102,
     "timeYear": 2102,
-    "dailyMinutesDown": {
-      "2023-03-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Polizia di Stato",
@@ -361,18 +361,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quirinale.it.ico",
     "slug": "presidenza-della-repubblica",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 368,
     "timeDay": 368,
     "timeWeek": 368,
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-03-25": 180,
+      "2023-03-25": 281,
       "2023-03-24": 7
     }
   }
