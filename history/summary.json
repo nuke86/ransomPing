@@ -34,7 +34,7 @@
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-03-25": 450,
+      "2023-03-25": 456,
       "2023-03-24": 9
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 450,
+      "2023-03-25": 456,
       "2023-03-24": 8
     }
   },
@@ -64,19 +64,19 @@
     "url": "http://www.difesa.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.difesa.it.ico",
     "slug": "difesa",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-03-25": 1
+      "2023-03-25": 5
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 2203,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-03-25": 450,
+      "2023-03-25": 456,
       "2023-03-24": 8
     }
   },
@@ -232,11 +232,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "cultura",
     "status": "up",
-    "uptime": "19.80%",
-    "uptimeDay": "19.80%",
-    "uptimeWeek": "19.80%",
-    "uptimeMonth": "19.80%",
-    "uptimeYear": "19.80%",
+    "uptime": "20.78%",
+    "uptimeDay": "20.78%",
+    "uptimeWeek": "20.78%",
+    "uptimeMonth": "20.78%",
+    "uptimeYear": "20.78%",
     "time": 8827,
     "timeDay": 8827,
     "timeWeek": 8827,
@@ -372,7 +372,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-03-25": 450,
+      "2023-03-25": 456,
       "2023-03-24": 7
     }
   }
