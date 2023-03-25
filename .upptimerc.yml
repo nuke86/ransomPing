@@ -6,9 +6,9 @@ sites:
   - name: Affari Esteri e Cooperazione Internazionale
     url: http://www.esteri.it/
   - name: Interno
-    url: https://www.interno.gov.it/
+    url: https://www.interno.gov.it/it/
   - name: Giustizia
-    url: http://www.giustizia.it/
+    url: https://www.giustizia.it/giustizia/
   - name: Difesa
     url: http://www.difesa.it/
   - name: Economia e Finanze
@@ -20,7 +20,7 @@ sites:
   - name: Ambiente e Sicurezza energetica
     url: https://www.mite.gov.it/    
   - name: Infrastrutture e Trasporti
-    url: http://www.mit.gov.it/
+    url: https://www.mit.gov.it/
   - name: Lavoro e Politiche Sociali
     url: http://www.lavoro.gov.it/
   - name: Istruzione e Merito
@@ -28,7 +28,7 @@ sites:
   - name: Università e ricerca
     url: https://www.mur.gov.it/it
   - name: Cultura
-    url: http://www.beniculturali.it/
+    url: https://www.beniculturali.it/
   - name: Salute
     url: http://www.salute.gov.it/
   - name: Turismo
@@ -38,11 +38,11 @@ sites:
   - name: Polizia di Stato
     url: https://www.poliziadistato.it/
   - name: Guardia di Finanza
-    url: https://www.gdf.it
+    url: https://www.gdf.gov.it
   - name: Governo
     url: https://www.governo.it/
   - name: Presidenza della Repubblica
-    url: http://www.quirinale.it/
+    url: https://www.quirinale.it/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
