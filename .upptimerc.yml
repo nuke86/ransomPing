@@ -5,9 +5,11 @@ repo: ransomPing # The name of this repository
 sites:
   - name: Affari Esteri e Cooperazione Internazionale
     url: http://www.esteri.it/
-  - name: Interno
-    url: https://www.interno.gov.it/it/
-  - name: Giustizia
+  - name: Interno [TCP PING]
+    check: "tcp-ping"
+    url: www.interno.gov.it
+    port: 443
+  - name: Giustizia [TCP PING]
     check: "tcp-ping"
     url: www.giustizia.it
     port: 443
@@ -21,8 +23,10 @@ sites:
     url: http://www.politicheagricole.it/
   - name: Ambiente e Sicurezza energetica
     url: https://www.mite.gov.it/    
-  - name: Infrastrutture e Trasporti
-    url: https://www.mit.gov.it/
+  - name: Infrastrutture e Trasporti [TCP PING]
+    check: "tcp-ping"
+    url: www.mit.gov.it
+    port: 443
   - name: Lavoro e Politiche Sociali
     url: http://www.lavoro.gov.it/
   - name: Istruzione e Merito
@@ -43,8 +47,10 @@ sites:
     url: https://www.gdf.gov.it
   - name: Governo
     url: https://www.governo.it/
-  - name: Presidenza della Repubblica
-    url: https://www.quirinale.it/
+  - name: Presidenza della Repubblica [TCP PING]
+    check: "tcp-ping"
+    url: www.quirinale.it
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
