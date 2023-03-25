@@ -34,7 +34,7 @@
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-03-25": 350,
+      "2023-03-25": 360,
       "2023-03-24": 9
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 350,
+      "2023-03-25": 360,
       "2023-03-24": 8
     }
   },
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mit.gov.it.ico",
     "slug": "infrastrutture-e-trasporti",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 2203,
     "timeDay": 2203,
     "timeWeek": 2203,
     "timeMonth": 2203,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-03-25": 350,
+      "2023-03-25": 360,
       "2023-03-24": 8
     }
   },
@@ -212,38 +212,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "96.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 864,
     "timeDay": 864,
     "timeWeek": 864,
     "timeMonth": 864,
     "timeYear": 864,
-    "dailyMinutesDown": {
-      "2023-03-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cultura",
     "url": "https://www.beniculturali.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "cultura",
-    "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
+    "time": 8827,
+    "timeDay": 8827,
+    "timeWeek": 8827,
+    "timeMonth": 8827,
+    "timeYear": 8827,
     "dailyMinutesDown": {
-      "2023-03-25": 350,
+      "2023-03-25": 360,
       "2023-03-24": 7
     }
   },
@@ -372,7 +370,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-03-25": 350,
+      "2023-03-25": 360,
       "2023-03-24": 7
     }
   }
