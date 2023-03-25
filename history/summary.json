@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interno.gov.it.ico",
     "slug": "interno",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 752,
     "timeDay": 752,
     "timeWeek": 752,
     "timeMonth": 752,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-03-25": 286,
+      "2023-03-25": 339,
       "2023-03-24": 9
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 287,
+      "2023-03-25": 339,
       "2023-03-24": 8
     }
   },
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mit.gov.it.ico",
     "slug": "infrastrutture-e-trasporti",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 2203,
     "timeDay": 2203,
     "timeWeek": 2203,
     "timeMonth": 2203,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-03-25": 287,
+      "2023-03-25": 339,
       "2023-03-24": 8
     }
   },
@@ -211,19 +211,19 @@
     "url": "https://www.mur.gov.it/it",
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "98.12%",
-    "time": 944,
-    "timeDay": 944,
-    "timeWeek": 944,
-    "timeMonth": 944,
-    "timeYear": 944,
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 846,
+    "timeDay": 846,
+    "timeWeek": 846,
+    "timeMonth": 846,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2023-03-25": 6
+      "2023-03-25": 1
     }
   },
   {
@@ -232,18 +232,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beniculturali.it.ico",
     "slug": "cultura",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 287,
+      "2023-03-25": 339,
       "2023-03-24": 7
     }
   },
@@ -372,7 +372,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-03-25": 287,
+      "2023-03-25": 339,
       "2023-03-24": 7
     }
   }
