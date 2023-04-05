@@ -219,7 +219,7 @@
     "timeMonth": 1446,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2023-04-05": 368,
+      "2023-04-05": 369,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -240,8 +240,8 @@
     "slug": "universita-e-ricerca",
     "status": "down",
     "uptime": "83.78%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "88.41%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "88.40%",
     "uptimeMonth": "83.78%",
     "uptimeYear": "83.78%",
     "time": 828,
@@ -250,7 +250,7 @@
     "timeMonth": 828,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2023-04-05": 0,
+      "2023-04-05": 1,
       "2023-04-04": 45,
       "2023-04-03": 242,
       "2023-04-02": 219,
