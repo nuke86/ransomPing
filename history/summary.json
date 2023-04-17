@@ -64,7 +64,7 @@
     "status": "up",
     "uptime": "80.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "80.79%",
     "uptimeYear": "80.79%",
     "time": 832,
@@ -140,7 +140,7 @@
     "status": "up",
     "uptime": "65.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.39%",
+    "uptimeWeek": "51.38%",
     "uptimeMonth": "65.37%",
     "uptimeYear": "65.37%",
     "time": 2213,
@@ -149,7 +149,7 @@
     "timeMonth": 2213,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2023-04-17": 372,
+      "2023-04-17": 373,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -226,7 +226,7 @@
     "status": "up",
     "uptime": "11.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.82%",
+    "uptimeWeek": "20.83%",
     "uptimeMonth": "11.37%",
     "uptimeYear": "11.37%",
     "time": 1459,
@@ -276,7 +276,7 @@
     "timeMonth": 847,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2023-04-17": 141,
+      "2023-04-17": 143,
       "2023-04-16": 601,
       "2023-04-15": 412,
       "2023-04-14": 243,
@@ -353,8 +353,8 @@
     "slug": "salute",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
@@ -363,7 +363,7 @@
     "timeMonth": 819,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2023-04-17": 0
+      "2023-04-17": 2
     }
   },
   {
