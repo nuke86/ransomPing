@@ -1,7 +1,7 @@
 url: http://www.carabinieri.it/
-status: up
-code: 200
-responseTime: 2356
-lastUpdated: 2023-04-19T23:05:41.912Z
+status: down
+code: 502
+responseTime: 1434
+lastUpdated: 2023-04-20T06:27:12.469Z
 startTime: Fri Mar 24 2023 23:52:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
