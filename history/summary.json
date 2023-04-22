@@ -157,7 +157,7 @@
     "timeMonth": 2032,
     "timeYear": 2032,
     "dailyMinutesDown": {
-      "2023-04-22": 1319,
+      "2023-04-22": 1320,
       "2023-04-21": 208,
       "2023-04-19": 1236,
       "2023-04-18": 1440,
@@ -283,18 +283,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
     "status": "up",
-    "uptime": "76.09%",
-    "uptimeDay": "37.41%",
-    "uptimeWeek": "64.84%",
-    "uptimeMonth": "76.09%",
-    "uptimeYear": "76.09%",
+    "uptime": "76.00%",
+    "uptimeDay": "37.81%",
+    "uptimeWeek": "64.90%",
+    "uptimeMonth": "76.00%",
+    "uptimeYear": "76.00%",
     "time": 851,
     "timeDay": 765,
     "timeWeek": 868,
     "timeMonth": 851,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2023-04-22": 868,
+      "2023-04-22": 862,
       "2023-04-21": 718,
       "2023-04-20": 386,
       "2023-04-19": 224,
@@ -321,7 +321,7 @@
       "2023-03-29": 36,
       "2023-03-28": 363,
       "2023-03-27": 156,
-      "2023-03-26": 58
+      "2023-03-26": 103
     }
   },
   {
