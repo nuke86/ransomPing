@@ -1,7 +1,7 @@
 url: https://www.mur.gov.it/it
-status: down
-code: 403
-responseTime: 591
-lastUpdated: 2023-04-24T02:28:46.359Z
+status: up
+code: 200
+responseTime: 1347
+lastUpdated: 2023-04-24T02:45:29.633Z
 startTime: Fri Mar 24 2023 23:52:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
