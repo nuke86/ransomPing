@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "86.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.17%",
+    "uptimeWeek": "62.18%",
     "uptimeMonth": "85.94%",
     "uptimeYear": "86.63%",
     "time": 5731,
@@ -103,7 +103,7 @@
     "status": "down",
     "uptime": "87.34%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.50%",
+    "uptimeWeek": "75.49%",
     "uptimeMonth": "86.78%",
     "uptimeYear": "87.34%",
     "time": 2246,
@@ -188,8 +188,8 @@
     "slug": "ambiente-e-sicurezza-energetica",
     "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "20.05%",
-    "uptimeWeek": "88.58%",
+    "uptimeDay": "19.98%",
+    "uptimeWeek": "88.57%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "97.50%",
     "time": 2014,
@@ -198,7 +198,7 @@
     "timeMonth": 2103,
     "timeYear": 2014,
     "dailyMinutesDown": {
-      "2023-04-25": 1151
+      "2023-04-25": 1152
     }
   },
   {
@@ -207,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "infrastrutture-e-trasporti-tcp-ping",
     "status": "down",
-    "uptime": "86.18%",
+    "uptime": "86.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.03%",
+    "uptimeWeek": "38.02%",
     "uptimeMonth": "85.74%",
-    "uptimeYear": "86.18%",
+    "uptimeYear": "86.17%",
     "time": 1399,
     "timeDay": 0,
     "timeWeek": 984,
@@ -232,9 +232,9 @@
     "slug": "lavoro-e-politiche-sociali",
     "status": "up",
     "uptime": "96.31%",
-    "uptimeDay": "25.92%",
-    "uptimeWeek": "89.42%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "25.86%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "96.12%",
     "uptimeYear": "96.31%",
     "time": 4918,
     "timeDay": 3543,
@@ -242,7 +242,7 @@
     "timeMonth": 4849,
     "timeYear": 4918,
     "dailyMinutesDown": {
-      "2023-04-25": 1067,
+      "2023-04-25": 1068,
       "2023-04-18": 215,
       "2023-04-17": 414
     }
@@ -295,7 +295,7 @@
     "slug": "universita-e-ricerca",
     "status": "up",
     "uptime": "75.38%",
-    "uptimeDay": "52.97%",
+    "uptimeDay": "53.03%",
     "uptimeWeek": "57.41%",
     "uptimeMonth": "74.12%",
     "uptimeYear": "75.38%",
@@ -350,7 +350,7 @@
     "timeMonth": 3351,
     "timeYear": 3313,
     "dailyMinutesDown": {
-      "2023-04-25": 733,
+      "2023-04-25": 734,
       "2023-04-24": 651,
       "2023-04-23": 661,
       "2023-04-22": 660,
@@ -412,8 +412,8 @@
     "slug": "turismo",
     "status": "up",
     "uptime": "96.88%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "85.74%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "85.73%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "96.88%",
     "time": 2227,
@@ -422,7 +422,7 @@
     "timeMonth": 2247,
     "timeYear": 2227,
     "dailyMinutesDown": {
-      "2023-04-25": 1403,
+      "2023-04-25": 1404,
       "2023-04-24": 35
     }
   },
@@ -507,7 +507,7 @@
     "status": "up",
     "uptime": "96.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.44%",
+    "uptimeWeek": "83.43%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "96.37%",
     "time": 927,
@@ -516,7 +516,7 @@
     "timeMonth": 937,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2023-04-25": 1403,
+      "2023-04-25": 1404,
       "2023-04-24": 267
     }
   },
