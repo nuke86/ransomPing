@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "86.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.81%",
+    "uptimeWeek": "72.82%",
     "uptimeMonth": "85.94%",
     "uptimeYear": "86.93%",
     "time": 5731,
@@ -102,7 +102,7 @@
     "slug": "economia-e-finanze",
     "status": "up",
     "uptime": "86.07%",
-    "uptimeDay": "23.44%",
+    "uptimeDay": "23.53%",
     "uptimeWeek": "68.21%",
     "uptimeMonth": "86.68%",
     "uptimeYear": "86.07%",
@@ -152,7 +152,7 @@
     "uptime": "52.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "28.53%",
-    "uptimeMonth": "48.99%",
+    "uptimeMonth": "48.98%",
     "uptimeYear": "52.58%",
     "time": 2024,
     "timeDay": 896,
@@ -160,7 +160,7 @@
     "timeMonth": 2232,
     "timeYear": 2024,
     "dailyMinutesDown": {
-      "2023-04-26": 1035,
+      "2023-04-26": 1036,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -191,7 +191,7 @@
     "status": "up",
     "uptime": "95.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.94%",
+    "uptimeWeek": "77.93%",
     "uptimeMonth": "94.92%",
     "uptimeYear": "95.28%",
     "time": 2014,
@@ -200,7 +200,7 @@
     "timeMonth": 2103,
     "timeYear": 2014,
     "dailyMinutesDown": {
-      "2023-04-26": 1035,
+      "2023-04-26": 1036,
       "2023-04-25": 1189
     }
   },
@@ -212,7 +212,7 @@
     "status": "down",
     "uptime": "84.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.39%",
+    "uptimeWeek": "27.38%",
     "uptimeMonth": "83.29%",
     "uptimeYear": "84.18%",
     "time": 1399,
@@ -221,7 +221,7 @@
     "timeMonth": 1399,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2023-04-26": 1035,
+      "2023-04-26": 1036,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -237,7 +237,7 @@
     "status": "up",
     "uptime": "94.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.78%",
+    "uptimeWeek": "78.77%",
     "uptimeMonth": "93.68%",
     "uptimeYear": "94.12%",
     "time": 4918,
@@ -246,7 +246,7 @@
     "timeMonth": 4849,
     "timeYear": 4918,
     "dailyMinutesDown": {
-      "2023-04-26": 1035,
+      "2023-04-26": 1036,
       "2023-04-25": 1104,
       "2023-04-18": 215,
       "2023-04-17": 414
@@ -261,7 +261,7 @@
     "uptime": "36.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.98%",
+    "uptimeMonth": "33.99%",
     "uptimeYear": "36.99%",
     "time": 1463,
     "timeDay": 1370,
@@ -299,18 +299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
     "status": "up",
-    "uptime": "76.46%",
-    "uptimeDay": "75.88%",
-    "uptimeWeek": "56.49%",
-    "uptimeMonth": "74.67%",
-    "uptimeYear": "76.46%",
+    "uptime": "75.90%",
+    "uptimeDay": "76.81%",
+    "uptimeWeek": "56.62%",
+    "uptimeMonth": "74.08%",
+    "uptimeYear": "75.90%",
     "time": 861,
     "timeDay": 897,
     "timeWeek": 900,
     "timeMonth": 867,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2023-04-26": 181,
+      "2023-04-26": 169,
       "2023-04-25": 640,
       "2023-04-24": 529,
       "2023-04-23": 862,
@@ -336,7 +336,7 @@
       "2023-04-03": 242,
       "2023-04-02": 219,
       "2023-04-01": 80,
-      "2023-03-31": 18
+      "2023-03-31": 293
     }
   },
   {
@@ -420,7 +420,7 @@
     "status": "up",
     "uptime": "94.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.10%",
+    "uptimeWeek": "75.09%",
     "uptimeMonth": "94.27%",
     "uptimeYear": "94.67%",
     "time": 2227,
@@ -429,7 +429,7 @@
     "timeMonth": 2247,
     "timeYear": 2227,
     "dailyMinutesDown": {
-      "2023-04-26": 1035,
+      "2023-04-26": 1036,
       "2023-04-25": 1440,
       "2023-04-24": 35
     }
@@ -442,7 +442,7 @@
     "status": "up",
     "uptime": "82.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.84%",
+    "uptimeWeek": "91.85%",
     "uptimeMonth": "81.64%",
     "uptimeYear": "82.93%",
     "time": 4914,
@@ -515,7 +515,7 @@
     "status": "up",
     "uptime": "94.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.80%",
+    "uptimeWeek": "72.79%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "94.18%",
     "time": 927,
@@ -524,7 +524,7 @@
     "timeMonth": 937,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2023-04-26": 1035,
+      "2023-04-26": 1036,
       "2023-04-25": 1440,
       "2023-04-24": 267
     }
