@@ -1,7 +1,7 @@
 url: https://www.gdf.gov.it
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-06-03T08:30:29.542Z
+status: up
+code: 200
+responseTime: 2702
+lastUpdated: 2023-06-03T09:23:45.273Z
 startTime: Fri Mar 24 2023 23:52:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
