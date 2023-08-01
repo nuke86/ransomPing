@@ -282,7 +282,7 @@
     "status": "up",
     "uptime": "61.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.70%",
+    "uptimeWeek": "59.71%",
     "uptimeMonth": "74.48%",
     "uptimeYear": "61.36%",
     "time": 3131,
@@ -400,7 +400,7 @@
     "timeMonth": 1897,
     "timeYear": 1938,
     "dailyMinutesDown": {
-      "2023-08-01": 337,
+      "2023-08-01": 339,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2023-08-01": 337,
+      "2023-08-01": 339,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -640,7 +640,7 @@
     "timeMonth": 1773,
     "timeYear": 3656,
     "dailyMinutesDown": {
-      "2023-08-01": 337,
+      "2023-08-01": 339,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -823,18 +823,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mur.gov.it.ico",
     "slug": "universita-e-ricerca",
     "status": "up",
-    "uptime": "96.10%",
-    "uptimeDay": "95.04%",
-    "uptimeWeek": "81.46%",
-    "uptimeMonth": "83.41%",
-    "uptimeYear": "96.10%",
+    "uptime": "96.09%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "81.51%",
+    "uptimeMonth": "83.37%",
+    "uptimeYear": "96.09%",
     "time": 878,
     "timeDay": 896,
     "timeWeek": 866,
     "timeMonth": 864,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2023-08-01": 5,
       "2023-07-31": 135,
       "2023-07-30": 189,
       "2023-07-29": 21,
@@ -855,7 +854,8 @@
       "2023-07-14": 503,
       "2023-07-13": 188,
       "2023-07-12": 341,
-      "2023-07-11": 205
+      "2023-07-11": 205,
+      "2023-07-10": 23
     }
   },
   {
