@@ -1,7 +1,7 @@
 url: http://www.salute.gov.it/
-status: up
-code: 200
-responseTime: 1423
-lastUpdated: 2023-11-08T19:27:44.690Z
+status: down
+code: 503
+responseTime: 921
+lastUpdated: 2023-11-08T19:33:29.773Z
 startTime: 2023-03-24T23:52:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
