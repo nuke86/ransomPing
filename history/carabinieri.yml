@@ -1,7 +1,7 @@
 url: http://www.carabinieri.it/
-status: down
-code: 503
-responseTime: 719
-lastUpdated: 2023-12-13T21:42:04.396Z
+status: up
+code: 200
+responseTime: 2824
+lastUpdated: 2023-12-13T22:47:58.565Z
 startTime: 2023-03-24T23:52:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
