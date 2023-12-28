@@ -1,7 +1,7 @@
 url: http://www.lavoro.gov.it/
-status: down
-code: 500
-responseTime: 1381
-lastUpdated: 2023-12-28T16:16:56.213Z
+status: up
+code: 200
+responseTime: 1313
+lastUpdated: 2023-12-28T16:31:31.682Z
 startTime: 2023-03-24T23:52:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
