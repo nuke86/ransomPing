@@ -8,7 +8,7 @@
     "uptime": "68.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.87%",
+    "uptimeMonth": "12.84%",
     "uptimeYear": "68.31%",
     "time": 5459,
     "timeDay": 4083,
@@ -16,7 +16,7 @@
     "timeMonth": 3358,
     "timeYear": 5459,
     "dailyMinutesDown": {
-      "2024-01-08": 1294,
+      "2024-01-08": 1306,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -393,7 +393,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-08": 1294,
+      "2024-01-08": 1307,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -536,9 +536,9 @@
     "slug": "agricoltura-sovranita-alimentare-e-foreste",
     "status": "up",
     "uptime": "79.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "60.46%",
-    "uptimeMonth": "90.90%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "60.40%",
+    "uptimeMonth": "90.89%",
     "uptimeYear": "79.55%",
     "time": 2826,
     "timeDay": 691,
@@ -546,6 +546,7 @@
     "timeMonth": 1510,
     "timeYear": 2826,
     "dailyMinutesDown": {
+      "2024-01-08": 5,
       "2024-01-05": 969,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -673,8 +674,7 @@
       "2023-05-26": 34,
       "2023-05-25": 61,
       "2023-05-24": 982,
-      "2023-05-23": 223,
-      "2023-05-22": 17
+      "2023-05-23": 223
     }
   },
   {
@@ -694,7 +694,7 @@
     "timeMonth": 2372,
     "timeYear": 2107,
     "dailyMinutesDown": {
-      "2024-01-08": 1294,
+      "2024-01-08": 1307,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -972,7 +972,7 @@
     "timeMonth": 0,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2024-01-08": 1294,
+      "2024-01-08": 1307,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -1246,7 +1246,7 @@
     "uptime": "44.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "80.46%",
-    "uptimeMonth": "30.19%",
+    "uptimeMonth": "30.22%",
     "uptimeYear": "44.60%",
     "time": 2375,
     "timeDay": 5390,
@@ -1441,11 +1441,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.miur.gov.it.ico",
     "slug": "istruzione-e-merito",
     "status": "up",
-    "uptime": "41.62%",
+    "uptime": "41.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.43%",
-    "uptimeYear": "41.62%",
+    "uptimeMonth": "57.46%",
+    "uptimeYear": "41.63%",
     "time": 1473,
     "timeDay": 1437,
     "timeWeek": 1323,
@@ -1702,7 +1702,7 @@
     "timeMonth": 1983,
     "timeYear": 2246,
     "dailyMinutesDown": {
-      "2024-01-08": 520,
+      "2024-01-08": 533,
       "2024-01-07": 661,
       "2024-01-06": 957,
       "2024-01-05": 672,
