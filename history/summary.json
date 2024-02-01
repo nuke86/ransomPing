@@ -6,8 +6,8 @@
     "slug": "affari-esteri-e-cooperazione-internazionale",
     "status": "up",
     "uptime": "68.02%",
-    "uptimeDay": "13.02%",
-    "uptimeWeek": "87.57%",
+    "uptimeDay": "12.58%",
+    "uptimeWeek": "87.51%",
     "uptimeMonth": "47.52%",
     "uptimeYear": "68.02%",
     "time": 5367,
@@ -16,7 +16,7 @@
     "timeMonth": 3908,
     "timeYear": 5367,
     "dailyMinutesDown": {
-      "2024-02-01": 399,
+      "2024-02-01": 406,
       "2024-01-31": 853,
       "2024-01-16": 538,
       "2024-01-15": 1440,
@@ -403,7 +403,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 400,
+      "2024-02-01": 406,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -568,10 +568,10 @@
     "url": "http://www.politicheagricole.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.politicheagricole.it.ico",
     "slug": "agricoltura-sovranita-alimentare-e-foreste",
-    "status": "up",
+    "status": "down",
     "uptime": "83.22%",
-    "uptimeDay": "94.77%",
-    "uptimeWeek": "96.97%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "73.98%",
     "uptimeYear": "83.22%",
     "time": 2824,
@@ -580,7 +580,7 @@
     "timeMonth": 2697,
     "timeYear": 2824,
     "dailyMinutesDown": {
-      "2024-02-01": 76,
+      "2024-02-01": 77,
       "2024-01-28": 40,
       "2024-01-27": 60,
       "2024-01-26": 61,
@@ -695,7 +695,7 @@
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 208,
-      "2023-07-01": 182
+      "2023-07-01": 160
     }
   },
   {
@@ -715,7 +715,7 @@
     "timeMonth": 2350,
     "timeYear": 2122,
     "dailyMinutesDown": {
-      "2024-02-01": 400,
+      "2024-02-01": 406,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -1017,7 +1017,7 @@
     "timeMonth": 0,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2024-02-01": 400,
+      "2024-02-01": 406,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -1314,7 +1314,7 @@
     "status": "up",
     "uptime": "44.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "43.61%",
+    "uptimeWeek": "43.67%",
     "uptimeMonth": "50.97%",
     "uptimeYear": "44.41%",
     "time": 2354,
@@ -2184,8 +2184,8 @@
     "status": "up",
     "uptime": "94.18%",
     "uptimeDay": "66.09%",
-    "uptimeWeek": "78.94%",
-    "uptimeMonth": "72.06%",
+    "uptimeWeek": "79.00%",
+    "uptimeMonth": "72.08%",
     "uptimeYear": "94.18%",
     "time": 4361,
     "timeDay": 3691,
